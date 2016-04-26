@@ -1,13 +1,13 @@
 {
   "name": "blueforest-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "version": "0.1.0",
+  "description": "A dark blue theme",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/blueforest-syntax",
+  "repository": "https://github.com/alonsodomin/atom-blueforest-syntax-theme.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
