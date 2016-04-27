@@ -15,5 +15,6 @@ Supports following languages/markups:
  - XML
  - Bash
  - YAML
+ - HOCON
 
 ![screenshot](https://github.com/alonsodomin/atom-blueforest-syntax-theme/blob/master/screenshot.png?raw=true)
