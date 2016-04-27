@@ -13,5 +13,6 @@ Supports following languages/markups:
  - JavaScript
  - HTML
  - XML
+ - Bash
 
 ![screenshot](https://github.com/alonsodomin/atom-blueforest-syntax-theme/blob/master/screenshot.png?raw=true)
