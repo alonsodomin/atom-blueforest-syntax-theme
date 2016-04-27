@@ -1,3 +1,6 @@
+## 0.2.1 - Java properties
+* Add support for Java properties files
+
 ## 0.2.0 - Improve language support
 * Add support for following languages:
  - CSS
