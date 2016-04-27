@@ -2,10 +2,16 @@
   "name": "blueforest-syntax",
   "theme": "syntax",
   "version": "0.1.1",
-  "description": "A dark blue syntax theme",
+  "description": "A contrasty dark blue syntax theme",
   "keywords": [
     "syntax",
-    "theme"
+    "theme",
+    "scala",
+    "groovy",
+    "java",
+    "javascript",
+    "ruby",
+    "python"
   ],
   "repository": "https://github.com/alonsodomin/atom-blueforest-syntax-theme.git",
   "license": "MIT",
