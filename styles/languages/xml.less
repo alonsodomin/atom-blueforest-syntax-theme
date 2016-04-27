@@ -1,0 +1,29 @@
+.text.xml {
+  .entity {
+    &.name.tag {
+      color: @light-blue;
+    }
+
+    &.attribute-name {
+      color: @yellow;
+    }
+  }
+
+  .meta.tag {
+    .doctype {
+      color: @syntax-keyword-text-color;
+    }
+
+    .string.quoted {
+      color: @light-red;
+
+      .punctuation {
+        color: @light-red;
+      }
+    }
+
+    .namespace {
+      color: @light-yellow;
+    }
+  }
+}
