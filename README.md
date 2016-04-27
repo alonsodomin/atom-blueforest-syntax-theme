@@ -14,5 +14,6 @@ Supports following languages/markups:
  - HTML
  - XML
  - Bash
+ - YAML
 
 ![screenshot](https://github.com/alonsodomin/atom-blueforest-syntax-theme/blob/master/screenshot.png?raw=true)

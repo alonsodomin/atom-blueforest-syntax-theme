@@ -11,7 +11,9 @@
     "java",
     "javascript",
     "ruby",
-    "python"
+    "python",
+    "bash",
+    "yaml"
   ],
   "repository": "https://github.com/alonsodomin/atom-blueforest-syntax-theme.git",
   "license": "MIT",
