@@ -7,6 +7,7 @@ Supports following languages/markups:
  - Scala
  - Python
  - Groovy
+ - JSON
  - Ruby
  - JavaScript
  - HTML
