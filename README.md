@@ -1,6 +1,6 @@
 # Blueforest syntax theme
 
-A dark blue theme inspired by the [Blueforest IntelliJ](https://github.com/sirthias/BlueForest) theme.
+A dark blue theme inspired by the [Blueforest IntelliJ](https://github.com/sirthias/BlueForest) theme. Use it in combination with [Atom Material UI](https://atom.io/themes/atom-material-ui) or [Seti UI](https://atom.io/themes/seti-ui) for greatest awesomeness.
 
 Supports following languages/markups:
  - CSS
