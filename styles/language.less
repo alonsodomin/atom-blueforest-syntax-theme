@@ -49,6 +49,12 @@
   }
 }
 
+.annotation {
+  .constant {
+    color: @yellow;
+  }
+}
+
 .constant {
   color: @orange;
 
@@ -73,7 +79,19 @@
   color: @syntax-text-color;
 
   &.parameter {
-    color: @yellow;
+    color: @yellow !important;
+  }
+}
+
+.meta {
+  &.class.body {
+    color: @light-yellow;
+  }
+
+  &.method-call {
+    .method, .punctuation {
+      color: @syntax-text-color;
+    }
   }
 }
 
@@ -127,9 +145,12 @@
   }
 
   &.section.embedded {
-    color: darken(@red, 10%);
+    color: @yellow;
   }
 
+  &.section.method, &.section.class {
+    color: @syntax-text-color;
+  }
 }
 
 .support {
@@ -171,18 +192,6 @@
 
     &.id {
       color: @light-yellow;
-    }
-  }
-}
-
-.meta {
-  &.class.body {
-    color: @light-yellow;
-  }
-
-  &.method-call {
-    .method, .punctuation {
-      color: @syntax-text-color;
     }
   }
 }
