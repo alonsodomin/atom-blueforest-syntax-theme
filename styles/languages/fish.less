@@ -1,0 +1,27 @@
+.source.fish {
+  .string {
+    &.option {
+      color: @light-yellow;
+    }
+  }
+
+  .support.function {
+    &.builtin {
+      color: @syntax-keyword-text-color;
+    }
+
+    &.unix {
+      color: @brown;
+    }
+  }
+
+  .variable {
+    color: @yellow;
+  }
+
+  .punctuation {
+    &.variable {
+      color: @syntax-string-interpolation-inject;
+    }
+  }
+}

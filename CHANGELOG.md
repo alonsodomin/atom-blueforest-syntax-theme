@@ -1,3 +1,8 @@
+## 0.3.0 - Language improvements
+* Add support for Fish shell syntax
+* Align Bash/Zsh & Fish shell syntaxes
+* Bug fixes
+
 ## 0.2.2 - Language functions
 * Distinguish language functions in Scala/Python/Ruby
 * Some bug fixes

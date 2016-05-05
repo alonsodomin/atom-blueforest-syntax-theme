@@ -14,6 +14,7 @@ Supports following languages/markups:
  - HTML
  - XML
  - Bash
+ - Fish shell
  - YAML
  - HOCON
 

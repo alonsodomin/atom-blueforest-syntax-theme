@@ -1,11 +1,21 @@
 .source.shell {
   .entity {
     &.name.function {
-      color: @brown;
+      color: @orange;
     }
   }
 
   .function.builtin {
-    color: @orange;
+    color: @brown;
+  }
+
+  .variable {
+    color: @yellow;
+  }
+
+  .punctuation {
+    &.variable {
+      color: @syntax-string-interpolation-inject;
+    }
   }
 }
