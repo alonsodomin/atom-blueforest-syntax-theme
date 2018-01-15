@@ -1,31 +1,31 @@
-.source.scala {
-  .meta {
-    &.bracket {
+.syntax--source.syntax--scala {
+  .syntax--meta {
+    &.syntax--bracket {
       color: @syntax-text-color;
     }
   }
 
-  .class {
+  .syntax--class {
     color: @light-blue;
   }
 
-  .entity {
-    &.name.type.declaration {
+  .syntax--entity {
+    &.syntax--name.syntax--type.syntax--declaration {
       color: @light-orange;
     }
 
-    &.name.val.declaration {
+    &.syntax--name.syntax--val.syntax--declaration {
       color: @yellow;
     }
   }
 
-  .punctuation {
-    &.embedded {
+  .syntax--punctuation {
+    &.syntax--embedded {
       color: @syntax-string-interpolation-inject;
     }
   }
 
-  .embedded {
+  .syntax--embedded {
     color: @yellow;
   }
 }

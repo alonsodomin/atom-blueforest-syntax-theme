@@ -1,28 +1,28 @@
-.text.xml {
-  .entity {
-    &.name.tag {
+.syntax--text.syntax--xml {
+  .syntax--entity {
+    &.syntax--name.syntax--tag {
       color: @light-blue;
     }
 
-    &.attribute-name {
+    &.syntax--attribute-name {
       color: @yellow;
     }
   }
 
-  .meta.tag {
-    .doctype {
+  .syntax--meta.syntax--tag {
+    .syntax--doctype {
       color: @syntax-keyword-text-color;
     }
 
-    .string.quoted {
+    .syntax--string.syntax--quoted {
       color: @light-red;
 
-      .punctuation {
+      .syntax--punctuation {
         color: @light-red;
       }
     }
 
-    .namespace {
+    .syntax--namespace {
       color: @light-yellow;
     }
   }
